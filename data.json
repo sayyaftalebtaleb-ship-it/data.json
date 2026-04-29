@@ -9,5 +9,15 @@
       "content": "يرجى تسجيل الدخول في التطبيق من اجل يتم اعطائك كل يوم درس جديد "
     }
   ],
-  "quizzes": []
+  "quizzes": [
+    {
+      "question": "?What —— your name",
+      "options": [
+        "is",
+        "are",
+        "am"
+      ],
+      "correct": 0
+    }
+  ]
 }
