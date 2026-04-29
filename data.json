@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "app_settings": {
+    "welcome_message": "مرحباً بكم في تطبيق سياف لتعليم القواعد",
+    "main_color": "#00897B",
+    "update_note": "تم إضافة دروس جديدة!"
+  },
+  "lessons": [
+    {
+      "id": 1,
+      "title": "أدوات النكرة A & An",
+      "content": "نستخدم a قبل الاسم الذي يبدأ بصوت ساكن (مثل a book)، و an قبل الاسم الذي يبدأ بصوت متحرك (مثل an apple)."
+    },
+    {
+      "id": 2,
+      "title": "قاعدة الجمع",
+      "content": "لتحويل الكلمة من مفرد إلى جمع، نضيف s في نهاية الكلمة غالباً."
+    }
+  ],
+  "questions": [
+    {
+      "q": "I have ___ orange.",
+      "options": ["a", "an", "the"],
+      "correct": 1
+    },
+    {
+      "q": "They are ___.",
+      "options": ["boy", "boys"],
+      "correct": 1
+    }
+  ],
+  "custom_commands": {
+    "allow_copy": true,
+    "show_alert": false
+  }
+}
